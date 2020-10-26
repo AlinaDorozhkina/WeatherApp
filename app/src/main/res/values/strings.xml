@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="instruction">Выберите город</string>
+    <string name="forecast">Прогноз погоды</string>
+
+    <string name="Roma">Рим</string>
+    <string name="Moscow">Москва</string>
+    <string name="Tokyo">Токио</string>
+    <string name="Los_Angeles">Лос-Анджелес</string>
+
+
+    <string name="moscow_weather">Москва. Сегодня переменная облачность.
+        Максимальная температура воздуха 12 градусов.
+        Сегодня ночью облачно, минимальная температура воздуха 5 градусов</string>
+
+    <string name="roma_weather">Рим. Сегодня солнечно. Максимаьная темпратура воздуха 20 градусов.
+    Сегодня ночью переменная облчность, минимаьная температура воздуха 14 градусов</string>
+
+    <string name="tokyo_weather">Токио. Сегодня дождь, Максимальная температура воздуха 10 градусов.
+        Сегодня ночью дождь, минимальная температура воздуха 8 градусов.</string>
+
+    <string name="los_angeles_weather">Лос-Анджелес. Сегодня переменная облачность, Максимаьная температура воздуха 25 градусов.
+    Сегодня ночью облачно, минимаьная температуруа 20 градусов</string>
+
+
+
+
 </resources>
