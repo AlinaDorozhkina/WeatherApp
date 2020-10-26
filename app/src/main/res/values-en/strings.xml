@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="instruction">Choose city</string>
+    <string name="forecast">Weather Forecast</string>
+    <string name="Roma">Roma</string>
+    <string name="Moscow">Moscow</string>
+    <string name="Tokyo">Tokyo</string>
+    <string name="Los_Angeles">Los-Angeles</string>
+    <string name="moscow_weather">"Moscow. Today is partly cloud weather. "</string>
+    <string name="roma_weather">Roma. Today is sunny</string>
+    <string name="tokyo_weather">Tokyo. Today is rainy.</string>
+    <string name="los_angeles_weather">Los-Angeles. Today is partly cloud weather.</string>
+</resources>
